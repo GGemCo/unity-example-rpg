@@ -1,0 +1,3 @@
+Uid	Name	Chapter	Type	Subtype	FolderName	PlayerSpawnPosition	BgmUid
+101	101	1	Common	None	Map1_1	703,464	0
+102	102	1	Common	None	Map1_2	8,111,247	0

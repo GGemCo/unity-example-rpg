@@ -1,0 +1,5 @@
+Uid	Name	PrefabPath	MoveStep
+#일반 npc			
+100001	npc1	Characters/Npc/Npc1	128
+100002	좀비	Characters/Monster/Zombie1	128
+100003	스켈레톤	Characters/Monster/Zombie2	128

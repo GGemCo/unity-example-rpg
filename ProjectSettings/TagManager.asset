@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GGemCo_Monster
+  - GGemCo_Npc
+  - GGemCo_Map
+  - GGemCo_ButtonNpcQuest
+  - GGemCo_MapObjectWarp
+  - GGemCo_Player
+  - GGemCo_GridTileMap
+  - GGemCo_CanvasBlockInteraction
+  - GGemCo_CanvasTextDamage
+  - GGemCo_MainCamera
+  - GGemCo_CanvasUI
+  - GGemCo_CanvasUIByWorld
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - TileMapWall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: MapTerrain
+    uniqueID: 1413961269
+    locked: 0
+  - name: MapObject
+    uniqueID: 3376465601
+    locked: 0
+  - name: Character
+    uniqueID: 3344838823
+    locked: 0
+  - name: UI
+    uniqueID: 1916321877
+    locked: 0

@@ -1,0 +1,3 @@
+Uid	Name	SpineUid	DefaultSkin	Scale	Grade	StatMoveSpeed
+#1장						
+110001	npc1	100001	default	0.3	Common	2
