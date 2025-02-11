@@ -737,29 +737,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 776641143228725315, guid: fcda1745cd4e4a14ba6ff8a582041675, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 776641143228725315, guid: fcda1745cd4e4a14ba6ff8a582041675, type: 3}
-      propertyPath: m_AnchoredPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 776641143228725315, guid: fcda1745cd4e4a14ba6ff8a582041675, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1101504813318836075, guid: fcda1745cd4e4a14ba6ff8a582041675, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 5884121818815239958, guid: fcda1745cd4e4a14ba6ff8a582041675, type: 3}
       propertyPath: m_Name
       value: CanvasBlockInteraction
-      objectReference: {fileID: 0}
-    - target: {fileID: 5884121818815239958, guid: fcda1745cd4e4a14ba6ff8a582041675, type: 3}
-      propertyPath: m_TagString
-      value: GGemCo_CanvasBlockInteraction
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

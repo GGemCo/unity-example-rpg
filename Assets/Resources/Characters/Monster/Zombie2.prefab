@@ -83,7 +83,7 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -950128473
+  m_SortingLayerID: 1916321880
   m_SortingLayer: 3
   m_SortingOrder: 1
   m_AdditionalVertexStreams: {fileID: 0}
@@ -204,6 +204,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b5eb134904c0ea4bab7e9f5d4ce8e68, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  flip: 0
   isStartFade: 0
-  player: {fileID: 0}
   hits: []
+  isAggro: 0
+  currentAttackSpeed: 0

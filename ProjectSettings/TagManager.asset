@@ -23,7 +23,7 @@ TagManager:
   - 
   - Water
   - UI
-  - TileMapWall
+  - GGemCo_TileMapWall
   - 
   - 
   - 
@@ -53,15 +53,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: MapTerrain
-    uniqueID: 1413961269
+  - name: GGemCo_MapTerrain
+    uniqueID: 1916321878
     locked: 0
-  - name: MapObject
-    uniqueID: 3376465601
+  - name: GGemCo_MapObject
+    uniqueID: 1916321879
     locked: 0
-  - name: Character
-    uniqueID: 3344838823
+  - name: GGemCo_Character
+    uniqueID: 1916321880
     locked: 0
-  - name: UI
-    uniqueID: 1916321877
+  - name: GGemCo_UI
+    uniqueID: 1916321881
     locked: 0
