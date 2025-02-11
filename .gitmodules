@@ -1,0 +1,3 @@
+[submodule "Assets/GGemCo"]
+	path = Assets/GGemCo
+	url = https://github.com/GGemCo/unity-sdk-rpg.git
