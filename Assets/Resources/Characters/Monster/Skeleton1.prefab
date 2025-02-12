@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 6036292594917816158}
   - component: {fileID: 9107704382757475928}
   m_Layer: 0
-  m_Name: Zombie2
+  m_Name: Skeleton1
   m_TagString: GGemCo_Monster
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -99,7 +99,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 015f965de228aaf42a6aa2d4a9d67b80, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 4265b4064caddd149a81b4a70338f0bb, type: 2}
   initialSkinName: 
   fixPrefabOverrideViaMeshFilter: 2
   initialFlipX: 0
@@ -205,7 +205,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flip: 0
-  isStartFade: 0
   hits: []
   isAggro: 0
   currentAttackSpeed: 0
