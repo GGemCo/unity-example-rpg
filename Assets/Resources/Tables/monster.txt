@@ -1,4 +1,4 @@
-Uid	Name	SpineUid	DefaultSkin	Type	Scale	Grade	StatHp	StatAtk	StatMoveSpeed	StatAttackSpeed	RewardExp	RewardGold
-#1장												
-110001	좀비	100002	default	Passive Defense	0.3	Common	10	1	0.5	1	10	100
-110002	스켈레톤	100003	default	Aggro First	0.3	Common	15	1	0.5	1	10	100
+Uid	Name	SpineUid	DefaultSkin	Type	Scale	Grade	StatHp	StatAtk	StatMoveSpeed	StatAttackSpeed
+#1장										
+110001	좀비	100002	default	Passive Defense	0.3	Common	10	1	0.5	1
+110002	스켈레톤	100003	default	Aggro First	0.3	Common	15	1	0.5	1
