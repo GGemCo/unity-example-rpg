@@ -16,6 +16,7 @@ TagManager:
   - GGemCo_MainCamera
   - GGemCo_CanvasUI
   - GGemCo_CanvasUIByWorld
+  - GGemCo_MapObject
   layers:
   - Default
   - TransparentFX
