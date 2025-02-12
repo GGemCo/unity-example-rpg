@@ -12,11 +12,10 @@ TagManager:
   - GGemCo_Player
   - GGemCo_GridTileMap
   - GGemCo_CanvasBlockInteraction
-  - GGemCo_CanvasTextDamage
   - GGemCo_MainCamera
-  - GGemCo_CanvasUI
-  - GGemCo_CanvasUIByWorld
   - GGemCo_MapObject
+  - GGemCo_CanvasUIByWorld
+  - GGemCo_CanvasUI
   layers:
   - Default
   - TransparentFX
