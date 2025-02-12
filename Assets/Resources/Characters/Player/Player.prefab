@@ -18,7 +18,7 @@ GameObject:
   - component: {fileID: 1623044092964026086}
   m_Layer: 0
   m_Name: Player
-  m_TagString: GGemCo_Player
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -84,8 +84,8 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1916321880
-  m_SortingLayer: 3
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
   m_SortingOrder: 1
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!114 &4601741890521732388
@@ -241,6 +241,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flip: 0
-  isStartFade: 0
   hits: []
   startScale: 0.2
