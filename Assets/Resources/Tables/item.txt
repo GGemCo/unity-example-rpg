@@ -1,0 +1,15 @@
+﻿Uid	Name	Type	Category	SubCategory	Class	ImagePath	OptionType1	OptionValue1
+# 장비								
+# 무기								
+101011001	무딘 칼	Equip	Weapon	Sword	Normal	Sword1	Atk	1
+101011002	날선 칼	Equip	Weapon	Sword	Normal	Sword2	Atk	10
+# 상의								
+102001002	상의 1	Equip	Armor	Top	Normal	Top1	Def	1
+102001003	상의 2	Equip	Armor	Top	Normal	Top2	Def	10
+# 물약								
+201011001	작은 HP포션	Consumable	Potion	RecoverHp	Normal	HpPotion1	None	15
+201011002	큰 HP포션	Consumable	Potion	RecoverHp	Normal	HpPotion2	None	30
+201021001	작은 MP포션	Consumable	Potion	RecoverMp	Normal	MpPotion1	None	15
+201021002	큰 MP포션	Consumable	Potion	RecoverMp	Normal	MpPotion2	None	30
+201031001	공격속도 증가	Consumable	Potion	IncreaseAttackSpeed	Normal	AttackSpeedPotion1	None	1.5
+201041002	이동속도 증가	Consumable	Potion	IncreaseMoveSpeed	Normal	MoveSpeedPotion1	None	1.5
