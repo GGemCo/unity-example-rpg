@@ -16,6 +16,7 @@ TagManager:
   - GGemCo_MapObject
   - GGemCo_CanvasUIByWorld
   - GGemCo_CanvasUI
+  - GGemCo_DropItem
   layers:
   - Default
   - TransparentFX
@@ -64,4 +65,7 @@ TagManager:
     locked: 0
   - name: GGemCo_UI
     uniqueID: 1916321881
+    locked: 0
+  - name: GGemCo_CharacterTop
+    uniqueID: 1916321882
     locked: 0
