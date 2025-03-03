@@ -17,13 +17,18 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 4259e0d6361bb6b479a32cb96094f34a
   m_SerializeEntries:
+  - m_GUID: be1b6c3f62a0a1046b83148a27deee38
+    m_Address: GGemCo_TextFloatingDamage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b78c13b2666d91741baed88e7e2ccfc1
     m_Address: GGemCo_Settings
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: be1b6c3f62a0a1046b83148a27deee38
-    m_Address: GGemCo_TextFloatingDamage
+  - m_GUID: a0d772a77e881f44a87c27475bbb5824
+    m_Address: GGemCo_SpriteDropItem
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
