@@ -1,0 +1,4 @@
+﻿Uid	Name	DefaultActive
+1	Hud	Y
+2	인벤토리	N
+3	아이템 정보창	N
