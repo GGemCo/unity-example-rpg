@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 468a46d0ae32c3544b7d98094e6448a9, type: 3}
   m_Name: AddressableAssetSettings
   m_EditorClassIdentifier: 
-  m_DefaultGroup: 4259e0d6361bb6b479a32cb96094f34a
+  m_DefaultGroup: ca40cd661d2010b4d9c25dfba7c969b4
   m_currentHash:
     serializedVersion: 2
-    Hash: faa095e2fc21b427ce7052c5edb7409e
+    Hash: 00000000000000000000000000000000
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 0
   m_BundleLocalCatalog: 0
@@ -87,9 +87,7 @@ MonoBehaviour:
   m_LabelTable:
     m_LabelNames:
     - default
-    - GGemCo_Settings
-    - GGemCo_BgBlackForMapLoading
-    - GGemCo_TextFloatingDamage
+    - GGemCo_PreLoadGamePrefabs
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: 40318d0b31a864c498cd527db6face9b, type: 2}

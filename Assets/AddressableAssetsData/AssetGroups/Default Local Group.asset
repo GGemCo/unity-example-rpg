@@ -15,22 +15,36 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_Data:
     m_SerializedData: []
-  m_GUID: 4259e0d6361bb6b479a32cb96094f34a
+  m_GUID: ca40cd661d2010b4d9c25dfba7c969b4
   m_SerializeEntries:
-  - m_GUID: be1b6c3f62a0a1046b83148a27deee38
-    m_Address: GGemCo_TextFloatingDamage
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b78c13b2666d91741baed88e7e2ccfc1
     m_Address: GGemCo_Settings
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a0d772a77e881f44a87c27475bbb5824
-    m_Address: GGemCo_SpriteDropItem
+    m_Address: GGemCo_PrefabDropItem
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - GGemCo_PreLoadGamePrefabs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b29abd89aaedd3448ff125cf7189ac2
+    m_Address: GGemCo_PrefabIconItem
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - GGemCo_PreLoadGamePrefabs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be1b6c3f62a0a1046b83148a27deee38
+    m_Address: GGemCo_TextFloatingDamage
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - GGemCo_PreLoadGamePrefabs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4eb019bb280c5b7418b14e871955fdea
+    m_Address: GGemCo_PrefabSlot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - GGemCo_PreLoadGamePrefabs
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: c0e80656e0e00824f8f175ad43aed9e1, type: 2}
