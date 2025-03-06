@@ -17,6 +17,7 @@ TagManager:
   - GGemCo_CanvasUIByWorld
   - GGemCo_CanvasUI
   - GGemCo_DropItem
+  - GGemCo_WindowManager
   layers:
   - Default
   - TransparentFX
