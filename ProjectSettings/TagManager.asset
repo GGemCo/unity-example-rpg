@@ -7,17 +7,11 @@ TagManager:
   - GGemCo_Monster
   - GGemCo_Npc
   - GGemCo_Map
-  - GGemCo_ButtonNpcQuest
   - GGemCo_MapObjectWarp
   - GGemCo_Player
   - GGemCo_GridTileMap
-  - GGemCo_CanvasBlockInteraction
-  - GGemCo_MainCamera
   - GGemCo_MapObject
-  - GGemCo_CanvasUIByWorld
-  - GGemCo_CanvasUI
   - GGemCo_DropItem
-  - GGemCo_WindowManager
   layers:
   - Default
   - TransparentFX
