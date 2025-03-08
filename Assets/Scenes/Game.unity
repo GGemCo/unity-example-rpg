@@ -1760,7 +1760,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   uid: 2
-  maxCountIcon: 3
+  maxCountIcon: 48
   useFade: 1
   slots:
   - {fileID: 0}
