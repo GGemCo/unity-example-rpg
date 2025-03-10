@@ -673,7 +673,7 @@ GameObject:
   - component: {fileID: 494439877}
   - component: {fileID: 494439876}
   m_Layer: 5
-  m_Name: ButtonLoad
+  m_Name: ButtonOpenSaveWindow
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
