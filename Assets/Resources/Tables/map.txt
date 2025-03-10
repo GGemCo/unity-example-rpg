@@ -1,4 +1,4 @@
 Uid	Name	Chapter	Type	Subtype	FolderName	PlayerSpawnPosition
 101	마을	1	Common	None	Map1_1	703,464
-102	사냥터	1	Common	None	Map1_2	8111,247
-103	사냥터2	1	Common	None	Map1_3	8111,247
+102	사냥터	1	Common	None	Map1_2	1123,445
+103	사냥터2	1	Common	None	Map1_3	1192,209
