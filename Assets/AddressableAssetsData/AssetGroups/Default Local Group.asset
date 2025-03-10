@@ -46,6 +46,26 @@ MonoBehaviour:
     m_SerializedLabels:
     - GGemCo_PreLoadGamePrefabs
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11c477a742c1aa4449d2ad1347507d3d
+    m_Address: GGemCo_PrefabSaveDataSlot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2e3ab42fabf4364180706a6edb227c0
+    m_Address: GGemCo_MapSettings
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36af0490a18eb754fa87bf3de6c5f579
+    m_Address: GGemCo_SaveSettings
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb6405e2cb1fcee4081cf55f11052093
+    m_Address: GGemCo_PlayerSettings
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: c0e80656e0e00824f8f175ad43aed9e1, type: 2}
   m_SchemaSet:
