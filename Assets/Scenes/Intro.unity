@@ -213,7 +213,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   elementSaveDataSlot: {fileID: 2074553161418340036, guid: 11c477a742c1aa4449d2ad1347507d3d, type: 3}
-  containerelementSaveDataSlot: {fileID: 1381964453}
+  containerElementSaveDataSlot: {fileID: 1381964453}
+  popupManager: {fileID: 1974429964}
 --- !u!1 &195170416
 GameObject:
   m_ObjectHideFlags: 0
@@ -912,7 +913,7 @@ MonoBehaviour:
   buttonOption: {fileID: 1881120869}
   buttonGameExit: {fileID: 794885111}
   uIWindowLoadSaveData: {fileID: 133684262}
-  currentSaveDataSlotIndex: 0
+  popupManager: {fileID: 1974429964}
 --- !u!1 &794885109
 GameObject:
   m_ObjectHideFlags: 0
@@ -3001,6 +3002,55 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1881120867}
   m_CullTransparentMesh: 1
+--- !u!1 &1974429963
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1974429965}
+  - component: {fileID: 1974429964}
+  m_Layer: 0
+  m_Name: PopupManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1974429964
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1974429963}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ececfe66bde60c24d8a0419c8d8a9dbf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  popupTypePrefabs:
+  - {fileID: 0}
+  - {fileID: 2729538335748069006, guid: e7dc90b8f6f5ff74f9ede978c20e1919, type: 3}
+  canvasPopup: {fileID: 416393886}
+  elementRewardItem: {fileID: 0}
+--- !u!4 &1974429965
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1974429963}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 968.74255, y: 391.6257, z: 9.682062}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1982923656
 GameObject:
   m_ObjectHideFlags: 0
@@ -3211,3 +3261,4 @@ SceneRoots:
   - {fileID: 717027393}
   - {fileID: 416393886}
   - {fileID: 2044777468}
+  - {fileID: 1974429965}
