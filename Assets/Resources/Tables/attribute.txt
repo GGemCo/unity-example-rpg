@@ -1,5 +1,0 @@
-﻿Uid	Id	Name
-1	Atk	공격력
-2	Def	방어력
-3	Hp	생명력
-4	Mp	마력
