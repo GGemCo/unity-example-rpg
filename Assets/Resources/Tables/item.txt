@@ -1,15 +1,18 @@
-﻿Uid	Name	Type	Category	SubCategory	Class	ImagePath	OptionType1	OptionValue1
-# 장비								
-# 무기								
-101011001	무딘 칼	Equip	Weapon	Sword	Normal	Sword1	Atk	1
-101011002	날선 칼	Equip	Weapon	Sword	Normal	Sword2	Atk	10
-# 상의								
-102001002	상의 1	Equip	Armor	Top	Normal	Top1	Def	1
-102001003	상의 2	Equip	Armor	Top	Normal	Top2	Def	10
-# 물약								
-201011001	작은 HP포션	Consumable	Potion	RecoverHp	Normal	HpPotion1	None	15
-201011002	큰 HP포션	Consumable	Potion	RecoverHp	Normal	HpPotion2	None	30
-201021001	작은 MP포션	Consumable	Potion	RecoverMp	Normal	MpPotion1	None	15
-201021002	큰 MP포션	Consumable	Potion	RecoverMp	Normal	MpPotion2	None	30
-201031001	공격속도 증가	Consumable	Potion	IncreaseAttackSpeed	Normal	AttackSpeedPotion1	None	1.5
-201041002	이동속도 증가	Consumable	Potion	IncreaseMoveSpeed	Normal	MoveSpeedPotion1	None	1.5
+﻿Uid	Name	Type	Category	SubCategory	Class	ImagePath	StatusID1	StatusValue1	StatusID2	StatusValue2	OptionType1	OptionValue1	OptionType2	OptionValue2	OptionType3	OptionValue3	OptionType4	OptionValue4	OptionType5	OptionValue5
+# 장비																				
+# 무기																				
+101011001	무딘 칼	Equip	Weapon	Sword	Normal	Sword1	STAT_ATK	1	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0
+101011002	날선 칼	Equip	Weapon	Sword	Normal	Sword2	STAT_ATK	10	NONE	0	STAT_ATK_INCREASE	11	NONE	0	NONE	0	NONE	0	NONE	0
+# 상의																				
+102011001	상의 1	Equip	Armor	Top	Normal	Top1	STAT_DEF	1	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0
+102011002	상의 2	Equip	Armor	Top	Normal	Top2	STAT_DEF	10	NONE	0	STAT_DEF_ADD	10	NONE	0	NONE	0	NONE	0	NONE	0
+# 다리																				
+102021001	다리 1	Equip	Armor	Leg	Normal	Leg1	STAT_DEF	1	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0
+102021002	다리 2	Equip	Armor	Leg	Normal	Leg2	STAT_DEF	10	NONE	0	STAT_DEF_ADD	10	NONE	0	NONE	0	NONE	0	NONE	0
+# 물약																				
+201011001	작은 HP포션	Consumable	Potion	RecoverHp	Normal	HpPotion1	NONE	15	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0
+201011002	큰 HP포션	Consumable	Potion	RecoverHp	Normal	HpPotion2	NONE	30	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0
+201021001	작은 MP포션	Consumable	Potion	RecoverMp	Normal	MpPotion1	NONE	15	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0
+201021002	큰 MP포션	Consumable	Potion	RecoverMp	Normal	MpPotion2	NONE	30	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0
+201031001	공격속도 증가	Consumable	Potion	IncreaseAttackSpeed	Normal	AttackSpeedPotion1	NONE	150	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0
+201041002	이동속도 증가	Consumable	Potion	IncreaseMoveSpeed	Normal	MoveSpeedPotion1	NONE	150	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0

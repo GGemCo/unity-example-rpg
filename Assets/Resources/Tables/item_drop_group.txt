@@ -1,6 +1,7 @@
 ﻿Uid	Memo	Type	Value	Rate
-10001	좀비	ItemCategory	Weapon	50
-10001	좀비	ItemCategory	Armor	50
+10001	좀비	ItemCategory	Weapon	33
+10001	좀비	ItemSubCategory	Top	33
+10001	좀비	ItemSubCategory	Leg	33
 10002	스켈레톤	ItemSubCategory	RecoverHp	30
 10002	스켈레톤	ItemSubCategory	RecoverMp	70
 10003	사나운 좀비	ItemUid	101011002	50

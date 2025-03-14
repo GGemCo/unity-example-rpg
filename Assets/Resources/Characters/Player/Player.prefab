@@ -141,5 +141,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   flip: 0
-  hits: []
-  startScale: 0.2
