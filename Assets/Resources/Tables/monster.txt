@@ -1,7 +1,7 @@
 Uid	Name	SpineUid	DefaultSkin	Type	Scale	Grade	Level	StatHp	StatAtk	StatDef	StatMoveSpeed	StatAttackSpeed	RewardExp	RewardGold
 #사냥터 1														
-110001	좀비	100002	default	Passive Defense	0.3	Common	1	5	1	1	30	100	10	100
-110002	스켈레톤	100003	default	Passive Defense	0.3	Common	1	5	1	1	30	100	10	100
+110001	좀비	100002	default	Passive Defense	0.3	Common	1	5	1	1	30	30	10	100
+110002	스켈레톤	100003	default	Passive Defense	0.3	Common	1	5	1	1	30	30	10	100
 #사냥터 2														
-120001	사나운 좀비	100002	default	Passive Defense	0.5	Common	5	8	5	1	50	200	50	100
-120002	사나운 스켈레톤	100003	default	Passive Defense	0.5	Common	5	8	5	1	50	200	50	100
+120001	사나운 좀비	100002	default	Passive Defense	0.5	Common	5	8	5	1	100	100	50	100
+120002	사나운 스켈레톤	100003	default	Passive Defense	0.5	Common	5	8	5	1	100	100	50	100

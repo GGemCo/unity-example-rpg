@@ -917,6 +917,7 @@ MonoBehaviour:
   buttonGameExit: {fileID: 794885111}
   uIWindowLoadSaveData: {fileID: 133684262}
   popupManager: {fileID: 1974429964}
+  prefabPlayer: {fileID: 4494480872400600231, guid: fdd45ec50fca4f946855868358fdaefa, type: 3}
 --- !u!1 &794885109
 GameObject:
   m_ObjectHideFlags: 0

@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 6839130545189720307}
   - component: {fileID: 1968895302890236912}
   - component: {fileID: 4399621632775003850}
-  - component: {fileID: 9107704382757475928}
   m_Layer: 0
   m_Name: Skeleton1
   m_TagString: Untagged
@@ -128,19 +127,3 @@ MonoBehaviour:
   _animationName: wait
   loop: 1
   timeScale: 1
---- !u!114 &9107704382757475928
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6519194013118346308}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3b5eb134904c0ea4bab7e9f5d4ce8e68, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  flip: 0
-  hits: []
-  isAggro: 0
-  currentAttackSpeed: 0

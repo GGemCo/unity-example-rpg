@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 8438166783847073300}
   - component: {fileID: 7796003755971259458}
   - component: {fileID: 5252498759216932068}
-  - component: {fileID: 796280972410014643}
   m_Layer: 0
   m_Name: Npc1
   m_TagString: Untagged
@@ -128,16 +127,3 @@ MonoBehaviour:
   _animationName: wait
   loop: 1
   timeScale: 1
---- !u!114 &796280972410014643
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 881977993042725622}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 44e6799385784bcf9a116443cfbc869a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  flip: 0

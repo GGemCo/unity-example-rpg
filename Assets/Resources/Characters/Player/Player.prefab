@@ -12,7 +12,6 @@ GameObject:
   - component: {fileID: 2279596472248992530}
   - component: {fileID: 7263533017701847153}
   - component: {fileID: 4601741890521732388}
-  - component: {fileID: 1623044092964026086}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -128,16 +127,3 @@ MonoBehaviour:
   _animationName: wait
   loop: 1
   timeScale: 1
---- !u!114 &1623044092964026086
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 430727049036759223}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 725e2d7926df3ae4c949062ef360877d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  flip: 0
