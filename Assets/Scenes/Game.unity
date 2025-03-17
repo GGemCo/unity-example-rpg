@@ -1144,7 +1144,7 @@ GameObject:
   - component: {fileID: 376076620}
   - component: {fileID: 376076619}
   m_Layer: 5
-  m_Name: Button
+  m_Name: ButtonAllMerge
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2415,7 +2415,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1668305522076550796, guid: 4eb019bb280c5b7418b14e871955fdea, type: 3}
       propertyPath: m_Name
-      value: SlotLeg
+      value: SlotBoots
       objectReference: {fileID: 0}
     - target: {fileID: 8882580662867122852, guid: 4eb019bb280c5b7418b14e871955fdea, type: 3}
       propertyPath: m_Pivot.x
@@ -3547,8 +3547,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 24e54c111b0f4896a94f94611c125d32, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uid: 0
-  maxCountIcon: 3
+  uid: 4
+  maxCountIcon: 11
   useFade: 0
   slots: []
   icons: []
@@ -3556,9 +3556,18 @@ MonoBehaviour:
   iconSize: {x: 50, y: 50}
   containerIcon: {fileID: 0}
   preLoadSlots:
+  - {fileID: 0}
+  - {fileID: 0}
   - {fileID: 1216388326}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   - {fileID: 690328019}
   - {fileID: 946652525}
+  - {fileID: 0}
+  uiWindowInventory: {fileID: 881019483}
 --- !u!1 &1163787555
 GameObject:
   m_ObjectHideFlags: 0
@@ -3805,7 +3814,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1668305522076550796, guid: 4eb019bb280c5b7418b14e871955fdea, type: 3}
       propertyPath: m_Name
-      value: SlotTop
+      value: SlotChest
       objectReference: {fileID: 0}
     - target: {fileID: 8882580662867122852, guid: 4eb019bb280c5b7418b14e871955fdea, type: 3}
       propertyPath: m_Pivot.x
