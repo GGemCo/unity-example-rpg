@@ -25,6 +25,18 @@
 - 설명 동영상 : https://www.youtube.com/@ggemco
 - 설명 문서 : https://sturdy-coat-0d2.notion.site/Unity-example-rpg-v1-0-1-fb36d91845834d13a565dcbd987e192c?pvs=4
 
+## 예제 프로젝트 설정 방법
+
+### 1. Git 프로그램을 통해서 Clone 을 할 경우
+- GGemCo Sdk 프로젝트도 같이 받아지므로 유니티 허브에서 import 후 프로젝트를 실행 할 수 있습니다.
+
+### 2. Release 페이지에서 압축파일로 받았을 경우
+- GGemCo Sdk 프로젝트 파일이 없습니다.
+- GGemCo Sdk Release (https://github.com/GGemCo/unity-sdk-rpg/releases) 페이지로 이동하여 압축 파일을 다운로드 받습니다.
+- 압축을 해제한 후 예제 프로젝트의 Assets/GGemCo/ 폴더에 복사 붙여넣기 해주세요.
+![image](https://github.com/user-attachments/assets/d9ad6df3-0742-4484-a1fc-ecb24f4ecccf)
+- 위와같이 폴더가 설정되면 프로젝트를 실행 할 수 있습니다.
+
 ## 라이센스
 이 코드를 사용하여 게임을 개발 및 판매하는 것은 허용됩니다.<br>
 하지만 본 C# 코드를 직접적으로 판매하거나, 별도의 상업적 제품으로 재배포하는 행위는 금지됩니다.
