@@ -2376,10 +2376,8 @@ MonoBehaviour:
   containerIcon: {fileID: 0}
   sliderHp: {fileID: 660381753}
   sliderMp: {fileID: 698335620}
-  sliderExp: {fileID: 1169298264}
   textHp: {fileID: 897505658}
   textMp: {fileID: 1731860690}
-  textExp: {fileID: 1433679633}
 --- !u!1 &660381751
 GameObject:
   m_ObjectHideFlags: 0
@@ -4126,7 +4124,6 @@ MonoBehaviour:
   - {fileID: 690328019}
   - {fileID: 946652525}
   - {fileID: 0}
-  uiWindowInventory: {fileID: 881019483}
 --- !u!1 &1142926754
 GameObject:
   m_ObjectHideFlags: 0
