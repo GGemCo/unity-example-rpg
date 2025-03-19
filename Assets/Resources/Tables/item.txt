@@ -1,14 +1,14 @@
 ﻿Uid	Name	Type	Category	SubCategory	PartsID	Class	ImagePath	MaxOverlayCount	StatusID1	StatusValue1	StatusID2	StatusValue2	OptionType1	OptionValue1	OptionType2	OptionValue2	OptionType3	OptionValue3	OptionType4	OptionValue4	OptionType5	OptionValue5
 # 장비																						
 # 무기																						
-101011001	무딘 칼	Equip	Weapon	Sword	Weapon	Normal	Sword1	999	STAT_ATK	1	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0
-101011002	날선 칼	Equip	Weapon	Sword	Weapon	Normal	Sword2	999	STAT_ATK	10	NONE	0	STAT_ATK_INCREASE	11	NONE	0	NONE	0	NONE	0	NONE	0
+101011001	무딘 칼	Equip	Weapon	Sword	Weapon	Normal	Sword1	999	STAT_ATK_PLUS	1	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0
+101011002	날선 칼	Equip	Weapon	Sword	Weapon	Normal	Sword2	999	STAT_ATK_PLUS	10	NONE	0	NONE	11	NONE	0	NONE	0	NONE	0	NONE	0
 # 상의																						
-102011001	상의 1	Equip	Armor	Chest	Chest	Normal	Top1	999	STAT_DEF	1	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0
-102011002	상의 2	Equip	Armor	Chest	Chest	Normal	Top2	999	STAT_DEF	10	NONE	0	STAT_DEF_ADD	10	NONE	0	NONE	0	NONE	0	NONE	0
+102011001	상의 1	Equip	Armor	Chest	Chest	Normal	Top1	999	STAT_DEF_PLUS	1	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0
+102011002	상의 2	Equip	Armor	Chest	Chest	Normal	Top2	999	STAT_DEF_PLUS	10	NONE	0	NONE	10	NONE	0	NONE	0	NONE	0	NONE	0
 # 다리																						
-102021001	다리 1	Equip	Armor	Boots	Boots	Normal	Leg1	999	STAT_DEF	1	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0
-102021002	다리 2	Equip	Armor	Boots	Boots	Normal	Leg2	999	STAT_DEF	10	NONE	0	STAT_DEF_ADD	10	NONE	0	NONE	0	NONE	0	NONE	0
+102021001	다리 1	Equip	Armor	Boots	Boots	Normal	Leg1	999	STAT_DEF_PLUS	1	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0
+102021002	다리 2	Equip	Armor	Boots	Boots	Normal	Leg2	999	STAT_DEF_PLUS	10	NONE	0	NONE	10	NONE	0	NONE	0	NONE	0	NONE	0
 # 물약																						
 201011001	작은 HP포션	Consumable	Potion	RecoverHp	None	Normal	HpPotion1	999	NONE	15	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0
 201011002	큰 HP포션	Consumable	Potion	RecoverHp	None	Normal	HpPotion2	999	NONE	30	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0	NONE	0
