@@ -1,5 +1,5 @@
-Uid	Name	PrefabPath	MoveStep	ColliderSize
-#일반 npc				
-100001	npc1	Characters/Npc/Npc1	128	340,170
-100002	좀비	Characters/Monster/Zombie1	128	340,170
-100003	스켈레톤	Characters/Monster/Skeleton1	128	340,170
+Uid	Name	PrefabPath	Height	MoveStep	ColliderSize
+#일반 npc					
+100001	npc1	Characters/Npc/Npc1	310	128	340,170
+100002	좀비	Characters/Monster/Zombie1	310	128	340,170
+100003	스켈레톤	Characters/Monster/Skeleton1	305	128	340,170
