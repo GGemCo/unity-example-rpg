@@ -15,7 +15,7 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_Data:
     m_SerializedData: []
-  m_GUID: d60dbd839ae00a3489e8e5e0cc6637ca
+  m_GUID: ec2d026f6fa96bd4687bb4c85ccb5580
   m_SerializeEntries:
   - m_GUID: b78c13b2666d91741baed88e7e2ccfc1
     m_Address: GGemCo_Settings
@@ -57,6 +57,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a0d772a77e881f44a87c27475bbb5824
     m_Address: GGemCo_PrefabDropItem
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - GGemCo_PreLoadGamePrefabs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97965b6ef4f4c60489db729a0dbf02e3
+    m_Address: GGemCo_PrefabSliderMonsterHp
     m_ReadOnly: 0
     m_SerializedLabels:
     - GGemCo_PreLoadGamePrefabs
