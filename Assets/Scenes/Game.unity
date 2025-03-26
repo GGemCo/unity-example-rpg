@@ -364,7 +364,6 @@ MonoBehaviour:
   popupTypePrefabs:
   - {fileID: 0}
   - {fileID: 2729538335748069006, guid: e7dc90b8f6f5ff74f9ede978c20e1919, type: 3}
-  - {fileID: 2729538335748069006, guid: e7dc90b8f6f5ff74f9ede978c20e1919, type: 3}
   canvasPopup: {fileID: 577352209}
   elementRewardItem: {fileID: 0}
 --- !u!4 &59439768
