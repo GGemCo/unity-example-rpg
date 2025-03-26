@@ -1702,7 +1702,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8882580662867122852, guid: 4eb019bb280c5b7418b14e871955fdea, type: 3}
       propertyPath: m_Pivot.y
-      value: 0.5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8882580662867122852, guid: 4eb019bb280c5b7418b14e871955fdea, type: 3}
       propertyPath: m_AnchorMax.x
@@ -1762,7 +1762,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8882580662867122852, guid: 4eb019bb280c5b7418b14e871955fdea, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -50
+      value: -18
       objectReference: {fileID: 0}
     - target: {fileID: 8882580662867122852, guid: 4eb019bb280c5b7418b14e871955fdea, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -7325,7 +7325,7 @@ GameObject:
   - component: {fileID: 1491202439}
   - component: {fileID: 1491202438}
   m_Layer: 5
-  m_Name: UIWindowPlayerBuff
+  m_Name: UIWindowPlayerBuffInfo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
