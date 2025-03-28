@@ -67,6 +67,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - GGemCo_PreLoadGamePrefabs
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d355fe0d72092de44bd5a49e30c88450
+    m_Address: GGemCo_PrefabIconSkill
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - GGemCo_PreLoadGamePrefabs
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: c0e80656e0e00824f8f175ad43aed9e1, type: 2}
   m_SchemaSet:
