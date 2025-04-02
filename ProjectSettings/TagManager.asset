@@ -55,12 +55,15 @@ TagManager:
   - name: GGemCo_MapObject
     uniqueID: 1916321879
     locked: 0
+  - name: GGemCo_Character_Bottom
+    uniqueID: 3533681013
+    locked: 0
   - name: GGemCo_Character
     uniqueID: 1916321880
     locked: 0
-  - name: GGemCo_UI
-    uniqueID: 1916321881
-    locked: 0
   - name: GGemCo_CharacterTop
     uniqueID: 1916321882
+    locked: 0
+  - name: GGemCo_UI
+    uniqueID: 1916321881
     locked: 0
