@@ -17,4 +17,3 @@ MonoBehaviour:
   maxEnemyValue: 10
   delayDestroyMonster: 2
   dropItemDestroyTimeSec: 10
-  grobalCoolTimeSec: 1
