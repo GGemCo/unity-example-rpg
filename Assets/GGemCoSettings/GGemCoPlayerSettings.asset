@@ -16,8 +16,11 @@ MonoBehaviour:
   startScale: 0.2
   statAtk: 100
   statDef: 100
-  statHp: 300
+  statHp: 100000
   statMp: 100
   statMoveStep: 128
   statAttackSpeed: 100
   statMoveSpeed: 100
+  statRegistFire: 0
+  statRegistCold: 0
+  statRegistLightning: 0
