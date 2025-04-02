@@ -1,6 +1,6 @@
 ﻿Uid	Name	IconFileName	Type	Group	TickTime	StatusID	StatusSuffix	Value	Duration	EffectUid
 # 아이템										
-110001	이동속도 증가	MoveSpeed	Buff	MoveSpeed	0	STAT_MOVE_SPEED	INCREASE	30	10	0
+110001	이동속도 증가	MoveSpeed	Buff	MoveSpeed	0	STAT_MOVE_SPEED	INCREASE	30	10	200003
 110002	공격속도 증가	AttackSpeed	Buff	AttackSpeed	0	STAT_ATTACK_SPEED	INCREASE	30	10	0
 110003	생명력 회복	HealHp	Buff	HealHp	2	HEAL_HP	PLUS	10	10	0
 110004	마력 회복	HealMp	Buff	HealMp	2	HEAL_MP	PLUS	10	10	0
