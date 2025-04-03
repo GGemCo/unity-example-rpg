@@ -1,5 +1,5 @@
-Uid	Type	Name	PrefabPath	Width	Height	MoveStep	AttackRange
-#일반 npc							
-100001	Character	npc1	Characters/Npc/Npc1	233	334	128	340
-100002	Character	좀비	Characters/Monster/Zombie1	312	318	128	340
-100003	Character	스켈레톤	Characters/Monster/Skeleton1	293	343	128	340
+Uid	Type	Name	PrefabPath	Width	Height	MoveStep	AttackRange	HitAreaSize
+#일반 npc								
+100001	Character	npc1	Characters/Npc/Npc1	233	334	128	340	0,0
+100002	Character	좀비	Characters/Monster/Zombie1	312	318	128	340	109,216
+100003	Character	스켈레톤	Characters/Monster/Skeleton1	293	343	128	340	109,256
