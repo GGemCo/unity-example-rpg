@@ -17,7 +17,7 @@ MonoBehaviour:
   statAtk: 100
   statDef: 100
   statHp: 100000
-  statMp: 100
+  statMp: 100000
   statMoveStep: 128
   statAttackSpeed: 100
   statMoveSpeed: 100
