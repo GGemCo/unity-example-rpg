@@ -2000,6 +2000,7 @@ MonoBehaviour:
   calculateManager: {fileID: 0}
   mapManager: {fileID: 0}
   damageTextManager: {fileID: 0}
+  uIIconCoolTimeManager: {fileID: 0}
 --- !u!1 &306702019
 GameObject:
   m_ObjectHideFlags: 0
@@ -3344,13 +3345,13 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 655119324}
+  - {fileID: 1992367105}
   - {fileID: 881019480}
   - {fileID: 476998198}
   - {fileID: 1256837118}
   - {fileID: 1054777458}
   - {fileID: 1138729157}
   - {fileID: 1491202436}
-  - {fileID: 1992367105}
   - {fileID: 1504981465}
   - {fileID: 1301262985}
   - {fileID: 425199346}

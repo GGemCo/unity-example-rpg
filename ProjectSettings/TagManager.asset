@@ -12,6 +12,8 @@ TagManager:
   - GGemCo_GridTileMap
   - GGemCo_MapObject
   - GGemCo_DropItem
+  - GGemCo_MainCamera
+  - GGemCo_CanvasBlockInteraction
   layers:
   - Default
   - TransparentFX
@@ -50,20 +52,20 @@ TagManager:
     uniqueID: 0
     locked: 0
   - name: GGemCo_MapTerrain
-    uniqueID: 1916321878
+    uniqueID: 1
     locked: 0
   - name: GGemCo_MapObject
-    uniqueID: 1916321879
+    uniqueID: 2
     locked: 0
-  - name: GGemCo_Character_Bottom
-    uniqueID: 3533681013
+  - name: GGemCo_CharacterBottom
+    uniqueID: 1803139652
     locked: 0
   - name: GGemCo_Character
-    uniqueID: 1916321880
+    uniqueID: 4
     locked: 0
   - name: GGemCo_CharacterTop
-    uniqueID: 1916321882
+    uniqueID: 5
     locked: 0
   - name: GGemCo_UI
-    uniqueID: 1916321881
+    uniqueID: 6
     locked: 0
