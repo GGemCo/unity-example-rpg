@@ -9496,7 +9496,7 @@ Canvas:
   m_VertexColorAlwaysGammaSpace: 0
   m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
-  m_SortingLayerID: 1916321881
+  m_SortingLayerID: 6
   m_SortingOrder: 1
   m_TargetDisplay: 0
 --- !u!224 &1365500809
@@ -10315,7 +10315,6 @@ MonoBehaviour:
   slotSize: {x: 90, y: 90}
   iconSize: {x: 60, y: 60}
   containerIcon: {fileID: 80211455}
-  containerElement: {fileID: 7032406469963022749, guid: 091cfce5ae40c854b979f25e62a56121, type: 3}
   uIWindowSkillInfo: {fileID: 1301262991}
   prefabUIElementSkill: {fileID: 7032406469963022749, guid: 091cfce5ae40c854b979f25e62a56121, type: 3}
 --- !u!1001 &1517768225
