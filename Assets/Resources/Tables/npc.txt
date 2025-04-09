@@ -1,10 +1,4 @@
 Uid	Name	SpineUid	DefaultSkin	Scale	Grade	StatMoveSpeed	ImageThumbnailPath	InteractionUid
 #1장								
-110001	npc1	100001	default	0.3	Common	0	None	0
-110002	상점1	100001	default	0.3	Common	0	None	101
-110003	강화1	100001	default	0.3	Common	0	None	102
-110004	상점2	100001	default	0.3	Common	0	None	103
-110005	분해	100001	default	0.3	Common	0	None	104
-110006	강화,분해	100001	default	0.3	Common	0	None	105
-110007	창고	100001	default	0.3	Common	0	None	106
-110008	제작	100001	default	0.3	Common	0	None	107
+110001	고양이1	1001	default	0.3	Common	0	Npc1	101
+110002	고양이2	1002	default	0.3	Common	0	Npc2	103
