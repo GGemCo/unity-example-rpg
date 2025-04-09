@@ -74,3 +74,5 @@ crashlytics-build.properties
 
 # Rider
 .idea
+/[Aa]ssets/_test/
+/[Aa]ssets/_test.meta
