@@ -20,7 +20,7 @@ MonoBehaviour:
   statMp: 100000
   statMoveStep: 128
   statAttackSpeed: 100
-  statMoveSpeed: 100
+  statMoveSpeed: 200
   statRegistFire: 0
   statRegistCold: 0
   statRegistLightning: 0
