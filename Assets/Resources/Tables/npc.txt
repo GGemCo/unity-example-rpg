@@ -2,4 +2,5 @@ Uid	Name	SpineUid	DefaultSkin	Scale	Grade	StatMoveSpeed	ImageThumbnailPath	Inter
 #1장								
 110001	고양이1	1001	default	0.3	Common	0	Npc1	101
 110002	고양이2	1002	default	0.3	Common	0	Npc2	102
-110003	고양이3	1002	default	0.3	Common	0	Npc3	106
+110003	고양이3	1002	default	0.3	Common	0	Npc2	106
+110004	고양이4	1002	default	0.3	Common	0	Npc2	104

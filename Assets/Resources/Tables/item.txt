@@ -1,10 +1,10 @@
 ﻿Uid	Name	Type	Category	SubCategory	PartsID	Class	ImagePath	Upgrade	MaxOverlayCount	CoolTime	SaleCurrencyType	SaleCurrencyValue	AntiFlag	Description	StatusID1	StatusSuffix1	StatusValue1	StatusID2	StatusSuffix2	StatusValue2	OptionType1	OptionSuffix1	OptionValue1	OptionType2	OptionSuffix2	OptionValue2	OptionType3	OptionSuffix3	OptionValue3	OptionType4	OptionSuffix4	OptionValue4	OptionType5	OptionSuffix5	OptionValue5
 # 재화																																			
-301011001	골드	Currency	Gold	None	None	Normal	Gold	0	0	0	None	0	Stash,Shop	None	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
-301021001	실버	Currency	Silver	None	None	Normal	Silver	0	0	0	None	0	Stash,Shop	None	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
+301011001	골드	Currency	Gold	None	None	Normal	Gold	0	0	0	None	0	Stash,Shop,Salvage	None	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
+301021001	실버	Currency	Silver	None	None	Normal	Silver	0	0	0	None	0	Stash,Shop,Salvage	None	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
 # 장비																																			
 # 무기																																			
-101011001	무딘 칼	Equip	Weapon	Sword	Weapon	Normal	Sword1	0	1	0	Gold	100	None	무딘 칼 입니다.	STAT_ATK	PLUS	10	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
+101011001	무딘 칼	Equip	Weapon	Sword	Weapon	Normal	Sword1	0	1	0	Gold	100	Salvage	무딘 칼 입니다.	STAT_ATK	PLUS	10	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
 101011002	무딘 칼	Equip	Weapon	Sword	Weapon	Normal	Sword1	1	1	0	Gold	100	None	무딘 칼 입니다.	STAT_ATK	PLUS	20	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
 101011003	무딘 칼	Equip	Weapon	Sword	Weapon	Normal	Sword1	2	1	0	Gold	100	None	무딘 칼 입니다.	STAT_ATK	PLUS	30	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
 101011004	무딘 칼	Equip	Weapon	Sword	Weapon	Normal	Sword1	3	1	0	Gold	100	None	무딘 칼 입니다.	STAT_ATK	PLUS	40	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
@@ -25,20 +25,20 @@
 201031001	공격속도 증가	Consumable	Potion	IncreaseAttackSpeed	None	Normal	AttackSpeedPotion1	0	999	3	Gold	200	None	None	AFFECT_UID	NONE	110002	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
 201041002	이동속도 증가	Consumable	Potion	IncreaseMoveSpeed	None	Normal	MoveSpeedPotion1	0	999	3	Gold	210	None	None	AFFECT_UID	NONE	110001	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
 # 재료																																			
-401011001	아란둘라	Misc	Material	None	None	Normal	Arandula	0	999	0	Gold	10	None	아이템 제작에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
-401011002	케킥	Misc	Material	None	None	Normal	Kekik	0	999	0	Gold	10	None	아이템 제작에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
-401011003	코쿠다	Misc	Material	None	None	Normal	Kokuda	0	999	0	Gold	10	None	아이템 제작에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
-401011004	만다고라	Misc	Material	None	None	Normal	Mandragora	0	999	0	Gold	10	None	아이템 제작에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
-401011005	클라리아	Misc	Material	None	None	Normal	Sclaria	0	999	0	Gold	10	None	아이템 제작에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
-401011006	조그만 돌	Misc	Material	None	None	Normal	Rock1	0	999	0	Gold	10	None	아이템 강화에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
-401011007	돌	Misc	Material	None	None	Normal	Rock2	0	999	0	Gold	10	None	아이템 강화에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
-401011008	거대한 돌	Misc	Material	None	None	Normal	Rock3	0	999	0	Gold	10	None	아이템 강화에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
-401011009	골드 바1	Misc	Material	None	None	Normal	GoldBar1	0	999	0	Gold	10	None	아이템 강화에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
-401011010	골드 바2	Misc	Material	None	None	Normal	GoldBar2	0	999	0	Gold	10	None	아이템 강화에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
-401011011	골드 바3	Misc	Material	None	None	Normal	GoldBar3	0	999	0	Gold	10	None	아이템 강화에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
-401011012	실버 바1	Misc	Material	None	None	Normal	SilverBar1	0	999	0	Gold	10	None	아이템 강화에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
-401011013	실버 바2	Misc	Material	None	None	Normal	SilverBar2	0	999	0	Gold	10	None	아이템 강화에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
-401011014	실버 바3	Misc	Material	None	None	Normal	SilverBar3	0	999	0	Gold	10	None	아이템 강화에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
-401011015	브론즈 바1	Misc	Material	None	None	Normal	BronzeBar1	0	999	0	Gold	10	None	아이템 강화에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
-401011016	브론즈 바2	Misc	Material	None	None	Normal	BronzeBar2	0	999	0	Gold	10	None	아이템 강화에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
-401011017	브론즈 바3	Misc	Material	None	None	Normal	BronzeBar3	0	999	0	Gold	10	None	아이템 강화에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
+401011001	아란둘라	Misc	Material	None	None	Normal	Arandula	0	999	0	Gold	10	Salvage	아이템 제작에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
+401011002	케킥	Misc	Material	None	None	Normal	Kekik	0	999	0	Gold	10	Salvage	아이템 제작에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
+401011003	코쿠다	Misc	Material	None	None	Normal	Kokuda	0	999	0	Gold	10	Salvage	아이템 제작에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
+401011004	만다고라	Misc	Material	None	None	Normal	Mandragora	0	999	0	Gold	10	Salvage	아이템 제작에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
+401011005	클라리아	Misc	Material	None	None	Normal	Sclaria	0	999	0	Gold	10	Salvage	아이템 제작에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
+401011006	조그만 돌	Misc	Material	None	None	Normal	Rock1	0	999	0	Gold	10	Salvage	아이템 강화에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
+401011007	돌	Misc	Material	None	None	Normal	Rock2	0	999	0	Gold	10	Salvage	아이템 강화에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
+401011008	거대한 돌	Misc	Material	None	None	Normal	Rock3	0	999	0	Gold	10	Salvage	아이템 강화에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
+401011009	골드 바1	Misc	Material	None	None	Normal	GoldBar1	0	999	0	Gold	10	Salvage	아이템 강화에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
+401011010	골드 바2	Misc	Material	None	None	Normal	GoldBar2	0	999	0	Gold	10	Salvage	아이템 강화에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
+401011011	골드 바3	Misc	Material	None	None	Normal	GoldBar3	0	999	0	Gold	10	Salvage	아이템 강화에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
+401011012	실버 바1	Misc	Material	None	None	Normal	SilverBar1	0	999	0	Gold	10	Salvage	아이템 강화에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
+401011013	실버 바2	Misc	Material	None	None	Normal	SilverBar2	0	999	0	Gold	10	Salvage	아이템 강화에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
+401011014	실버 바3	Misc	Material	None	None	Normal	SilverBar3	0	999	0	Gold	10	Salvage	아이템 강화에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
+401011015	브론즈 바1	Misc	Material	None	None	Normal	BronzeBar1	0	999	0	Gold	10	Salvage	아이템 강화에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
+401011016	브론즈 바2	Misc	Material	None	None	Normal	BronzeBar2	0	999	0	Gold	10	Salvage	아이템 강화에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
+401011017	브론즈 바3	Misc	Material	None	None	Normal	BronzeBar3	0	999	0	Gold	10	Salvage	아이템 강화에 사용됩니다.	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
