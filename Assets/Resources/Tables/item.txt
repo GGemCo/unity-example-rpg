@@ -3,15 +3,15 @@
 301011001	골드	Currency	Gold	None	None	Normal	Gold	0	0	0	None	0	Stash,Shop,Salvage	None	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
 301021001	실버	Currency	Silver	None	None	Normal	Silver	0	0	0	None	0	Stash,Shop,Salvage	None	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
 # 무기																																			
-101011001	무딘 칼	Equip	Weapon	Sword	Weapon	Normal	Sword1	0	1	0	Gold	100	Salvage	무딘 칼 입니다.	STAT_ATK	PLUS	10	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
+101011001	무딘 칼	Equip	Weapon	Sword	Weapon	Normal	Sword1	0	1	0	Gold	100	None	무딘 칼 입니다.	STAT_ATK	PLUS	10	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
 101011002	무딘 칼	Equip	Weapon	Sword	Weapon	Normal	Sword1	1	1	0	Gold	100	None	무딘 칼 입니다.	STAT_ATK	PLUS	20	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
 101011003	무딘 칼	Equip	Weapon	Sword	Weapon	Normal	Sword1	2	1	0	Gold	100	None	무딘 칼 입니다.	STAT_ATK	PLUS	30	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
 101011004	무딘 칼	Equip	Weapon	Sword	Weapon	Normal	Sword1	3	1	0	Gold	100	None	무딘 칼 입니다.	STAT_ATK	PLUS	40	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
 101011005	무딘 칼	Equip	Weapon	Sword	Weapon	Normal	Sword1	4	1	0	Gold	100	None	무딘 칼 입니다.	STAT_ATK	PLUS	50	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
 101011006	무딘 칼	Equip	Weapon	Sword	Weapon	Normal	Sword1	5	1	0	Gold	100	None	무딘 칼 입니다.	STAT_ATK	PLUS	60	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
-101011007	제작 무딘 칼1	Equip	Weapon	Sword	Weapon	Normal	CraftSword1	0	1	0	Gold	100	None	제작한 칼1 입니다.	STAT_ATK	INCREASE	100	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
-101011008	제작 무딘 칼2	Equip	Weapon	Sword	Weapon	Normal	CraftSword2	0	1	0	Gold	100	None	제작한 칼2 입니다.	STAT_ATK	INCREASE	100	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
-101011021	날선 칼	Equip	Weapon	Sword	Weapon	Normal	Sword2	0	1	0	Gold	110	None	날카로운 칼 입니다.	STAT_ATK	PLUS	30	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
+101011007	제작 무딘 칼1	Equip	Weapon	Sword	Weapon	Normal	CraftSword1	0	1	0	Gold	100	Salvage,Upgrade	제작한 칼1 입니다.	STAT_ATK	INCREASE	100	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
+101011008	제작 무딘 칼2	Equip	Weapon	Sword	Weapon	Normal	CraftSword2	0	1	0	Gold	100	Salvage,Upgrade	제작한 칼2 입니다.	STAT_ATK	INCREASE	100	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
+101011021	날선 칼	Equip	Weapon	Sword	Weapon	Normal	Sword2	0	1	0	Gold	110	Salvage,Upgrade	날카로운 칼 입니다.	STAT_ATK	PLUS	30	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
 # 상의																																			
 102011001	상의 1	Equip	Armor	Chest	Chest	Normal	Top1	0	1	0	Gold	120	Shop	기본 상의 입니다.	STAT_DEF	PLUS	5	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
 102011002	상의 2	Equip	Armor	Chest	Chest	Normal	Top2	0	1	0	Gold	130	None	방어력이 조금 높은 상의 입니다.	STAT_DEF	PLUS	15	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0	NONE	NONE	0
