@@ -1,0 +1,114 @@
+{
+  "duration": 8.0,
+  "events": [
+    {
+      "time": 0.0,
+      "duration": 1.0,
+      "type": 1,
+      "cameraZoom": {
+        "startSize": 0.0,
+        "endSize": 200.0,
+        "easing": 4
+      }
+    },
+    {
+      "time": 0.0,
+      "duration": 2.0,
+      "type": 4,
+      "characterMove": {
+        "isFollowTarget": false,
+        "characterType": 3,
+        "characterUid": 110001,
+        "characterScale": 0.0,
+        "characterMoveSpeed": 100,
+        "startPosition": {
+          "x": 654.0,
+          "y": 593.0
+        },
+        "endPosition": {
+          "x": 654.0,
+          "y": 393.0
+        },
+        "speed": 1.0
+      }
+    },
+    {
+      "time": 0.0,
+      "duration": 2.0,
+      "type": 5,
+      "dialogueBalloon": {
+        "isFollowTarget": true,
+        "characterType": 3,
+        "characterUid": 110001,
+        "message": "나는 상점 고양이",
+        "fontSize": 14.0
+      }
+    },
+    {
+      "time": 3.0,
+      "duration": 2.0,
+      "type": 4,
+      "characterMove": {
+        "isFollowTarget": false,
+        "characterType": 2,
+        "characterUid": 110001,
+        "characterScale": 0.2,
+        "characterMoveSpeed": 100,
+        "startPosition": {
+          "x": 754.0,
+          "y": 593.0
+        },
+        "endPosition": {
+          "x": 754.0,
+          "y": 393.0
+        },
+        "speed": 1.0
+      }
+    },
+    {
+      "time": 3.0,
+      "duration": 2.0,
+      "type": 5,
+      "dialogueBalloon": {
+        "isFollowTarget": true,
+        "characterType": 3,
+        "characterUid": 110004,
+        "message": "나는 분해 고양이",
+        "fontSize": 24.0
+      }
+    },
+    {
+      "time": 6.0,
+      "duration": 2.0,
+      "type": 5,
+      "dialogueBalloon": {
+        "isFollowTarget": true,
+        "characterType": 3,
+        "characterUid": 110003,
+        "message": "나는 창고 고양이",
+        "fontSize": 36.0
+      }
+    },
+    {
+      "time": 7.0,
+      "duration": 1.0,
+      "type": 4,
+      "characterMove": {
+        "isFollowTarget": false,
+        "characterType": 2,
+        "characterUid": 110001,
+        "characterScale": 0.2,
+        "characterMoveSpeed": 50,
+        "startPosition": {
+          "x": 754.0,
+          "y": 393.0
+        },
+        "endPosition": {
+          "x": 754.0,
+          "y": 593.0
+        },
+        "speed": 1.0
+      }
+    }
+  ]
+}
