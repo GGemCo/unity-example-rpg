@@ -12,8 +12,6 @@ TagManager:
   - GGemCo_GridTileMap
   - GGemCo_MapObject
   - GGemCo_DropItem
-  - GGemCo_MainCamera
-  - GGemCo_CanvasBlockInteraction
   layers:
   - Default
   - TransparentFX
