@@ -1,5 +1,5 @@
 {
-  "duration": 11.0,
+  "duration": 14.5,
   "events": [
     {
       "time": 0.0,
@@ -7,12 +7,29 @@
       "type": 1,
       "cameraZoom": {
         "startSize": 0.0,
-        "endSize": 250.0,
+        "endSize": 200.0,
         "easing": 4
       }
     },
     {
-      "time": 0.0,
+      "time": 1.5,
+      "duration": 1.0,
+      "type": 0,
+      "cameraMove": {
+        "startPosition": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "endPosition": {
+          "x": 366.0,
+          "y": 209.0
+        },
+        "endTargetPlayer": true,
+        "easing": 4
+      }
+    },
+    {
+      "time": 3.0,
       "duration": 2.0,
       "type": 4,
       "characterMove": {
@@ -32,11 +49,11 @@
       }
     },
     {
-      "time": 0.0,
+      "time": 3.0,
       "duration": 2.0,
       "type": 5,
       "dialogueBalloon": {
-        "isFollowTarget": true,
+        "isFollowTarget": false,
         "characterType": 3,
         "characterUid": 110001,
         "message": "나는 상점 고양이",
@@ -44,11 +61,23 @@
       }
     },
     {
-      "time": 2.5,
-      "duration": 2.0,
+      "time": 5.5,
+      "duration": 1.0,
+      "type": 5,
+      "dialogueBalloon": {
+        "isFollowTarget": true,
+        "characterType": 3,
+        "characterUid": 110004,
+        "message": "나는 분해 고양이",
+        "fontSize": 24.0
+      }
+    },
+    {
+      "time": 7.0,
+      "duration": 2.53,
       "type": 4,
       "characterMove": {
-        "isFollowTarget": false,
+        "isFollowTarget": true,
         "characterType": 2,
         "characterUid": 110001,
         "characterScale": 0.3,
@@ -64,19 +93,7 @@
       }
     },
     {
-      "time": 2.5,
-      "duration": 2.0,
-      "type": 5,
-      "dialogueBalloon": {
-        "isFollowTarget": true,
-        "characterType": 3,
-        "characterUid": 110004,
-        "message": "나는 분해 고양이",
-        "fontSize": 24.0
-      }
-    },
-    {
-      "time": 6.0,
+      "time": 10.0,
       "duration": 2.0,
       "type": 5,
       "dialogueBalloon": {
@@ -88,11 +105,11 @@
       }
     },
     {
-      "time": 6.0,
+      "time": 10.0,
       "duration": 2.0,
       "type": 6,
       "characterAnimation": {
-        "isFollowTarget": false,
+        "isFollowTarget": true,
         "characterType": 2,
         "characterUid": 110001,
         "characterScale": 0.0,
@@ -107,7 +124,7 @@
       }
     },
     {
-      "time": 9.0,
+      "time": 12.5,
       "duration": 2.0,
       "type": 4,
       "characterMove": {
