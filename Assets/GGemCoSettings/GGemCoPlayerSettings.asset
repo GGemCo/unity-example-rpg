@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 327e29837d2b4c2181ca3834e501b8fa, type: 3}
   m_Name: GGemCoPlayerSettings
   m_EditorClassIdentifier: 
+  characterFacing: 1
   maxLevel: 10
   startScale: 0.2
   statAtk: 100
