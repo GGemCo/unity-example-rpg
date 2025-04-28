@@ -1,0 +1,58 @@
+{
+  "nodes": [
+    {
+      "guid": "bac76c16-6d25-4379-bdb2-49d86b46d33a",
+      "title": "대화 노드",
+      "dialogueText": "대사를 입력하세요",
+      "characterType": 3,
+      "characterUid": 1,
+      "fontSize": 2.0,
+      "thumbnailImage": "3",
+      "options": [
+        {
+          "optionText": "새 선택지",
+          "nextNodeGuid": "face67fc-180d-4eb3-af15-993d296491d0"
+        },
+        {
+          "optionText": "새 선택지",
+          "nextNodeGuid": "271af1c2-2a44-4870-ba4f-914f612b5625"
+        }
+      ],
+      "name": "",
+      "hideFlags": 0
+    },
+    {
+      "guid": "face67fc-180d-4eb3-af15-993d296491d0",
+      "title": "대화 노드",
+      "dialogueText": "대사를 입력하세요",
+      "characterType": 1,
+      "characterUid": 4,
+      "fontSize": 5.0,
+      "thumbnailImage": "6",
+      "options": [
+        {
+          "optionText": "새 선택지",
+          "nextNodeGuid": ""
+        },
+        {
+          "optionText": "새 선택지",
+          "nextNodeGuid": ""
+        }
+      ],
+      "name": "",
+      "hideFlags": 0
+    },
+    {
+      "guid": "271af1c2-2a44-4870-ba4f-914f612b5625",
+      "title": "대화 노드",
+      "dialogueText": "대사를 입력하세요",
+      "characterType": 2,
+      "characterUid": 7,
+      "fontSize": 8.0,
+      "thumbnailImage": "9",
+      "options": [],
+      "name": "",
+      "hideFlags": 0
+    }
+  ]
+}
