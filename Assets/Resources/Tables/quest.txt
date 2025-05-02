@@ -1,0 +1,3 @@
+﻿Uid	Type	Title	FileName	NeedQuestUid	NextQuestUid	DialogueUid	MapUid	NpcUid	DirectionUid	Repeat	RewardItemUid1	RewardItemCount1	RewardItemUid2	RewardItemCount2
+1001	Main	마을 탐방	quest_001	0	1002	0	101	110001	0	N	0	0	0	0
+1002	Main	이상한 소문	quest_002	0	0	0	101	110001	0	N	0	0	0	0
