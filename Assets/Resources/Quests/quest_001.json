@@ -1,0 +1,41 @@
+{
+  "uid": 1,
+  "title": "2",
+  "steps": [
+    {
+      "objectiveType": 1,
+      "mapUid": 1,
+      "targetUid": 2,
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "count": 0
+    },
+    {
+      "objectiveType": 2,
+      "mapUid": 3,
+      "targetUid": 4,
+      "position": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "count": 5
+    }
+  ],
+  "reward": {
+    "experience": 3,
+    "gold": 4,
+    "silver": 5,
+    "items": [
+      {
+        "itemUid": "6",
+        "amount": 7
+      },
+      {
+        "itemUid": "8",
+        "amount": 9
+      }
+    ]
+  }
+}
