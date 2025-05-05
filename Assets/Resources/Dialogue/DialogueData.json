@@ -10,7 +10,7 @@
       },
       "characterType": 3,
       "characterUid": 110001,
-      "fontSize": 14.0,
+      "fontSize": 0.0,
       "thumbnailImage": "",
       "options": [
         {
@@ -22,7 +22,9 @@
           "nextNodeGuid": "271af1c2-2a44-4870-ba4f-914f612b5625"
         }
       ],
-      "nextNodeGuid": ""
+      "nextNodeGuid": "",
+      "startQuestUid": 0,
+      "startQuestStep": 0
     },
     {
       "guid": "face67fc-180d-4eb3-af15-993d296491d0",
@@ -46,7 +48,9 @@
           "nextNodeGuid": "b72fa78b-f7af-4cba-817a-21775ce69416"
         }
       ],
-      "nextNodeGuid": ""
+      "nextNodeGuid": "",
+      "startQuestUid": 0,
+      "startQuestStep": 0
     },
     {
       "guid": "271af1c2-2a44-4870-ba4f-914f612b5625",
@@ -70,7 +74,9 @@
           "nextNodeGuid": "b72fa78b-f7af-4cba-817a-21775ce69416"
         }
       ],
-      "nextNodeGuid": ""
+      "nextNodeGuid": "",
+      "startQuestUid": 0,
+      "startQuestStep": 0
     },
     {
       "guid": "0b6bade4-84db-4f52-879e-87dcd92099ae",
@@ -85,7 +91,9 @@
       "fontSize": 0.0,
       "thumbnailImage": "",
       "options": [],
-      "nextNodeGuid": ""
+      "nextNodeGuid": "",
+      "startQuestUid": 0,
+      "startQuestStep": 0
     },
     {
       "guid": "5fed9819-324e-43a0-a8f6-51a4e2e415c8",
@@ -100,7 +108,9 @@
       "fontSize": 0.0,
       "thumbnailImage": "",
       "options": [],
-      "nextNodeGuid": ""
+      "nextNodeGuid": "",
+      "startQuestUid": 0,
+      "startQuestStep": 0
     },
     {
       "guid": "b72fa78b-f7af-4cba-817a-21775ce69416",
@@ -115,7 +125,9 @@
       "fontSize": 0.0,
       "thumbnailImage": "",
       "options": [],
-      "nextNodeGuid": ""
+      "nextNodeGuid": "",
+      "startQuestUid": 0,
+      "startQuestStep": 0
     }
   ]
 }
