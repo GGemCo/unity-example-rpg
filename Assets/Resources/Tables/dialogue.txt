@@ -1,4 +1,4 @@
 ﻿Uid	Memo	FileName
-10001	대화1	DialogueData
+10001	대화1	DialogueData1
 10002	대화2	DialogueData2
 10003	대화3	DialogueData3
