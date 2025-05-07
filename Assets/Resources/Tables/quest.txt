@@ -1,4 +1,4 @@
-﻿Uid	Type	Title	FileName	NeedQuestUid	NextQuestUid	DialogueUid	MapUid	NpcUid	DirectionUid	Repeat
-1001	Main	마을 탐방	quest_001	0	1002	0	101	110001	0	N
-1002	Main	이상한 소문	quest_002	0	0	0	101	110001	0	N
-1003	Main	수상한 고양이 찾기	quest_003	0	0	0	101	110001	0	N
+﻿Uid	Type	Name	FileName	MapUid	NpcUid
+1001	Main	마을 탐방	quest_001	101	110001
+1002	Main	이상한 소문	quest_002	101	110001
+1003	Main	수상한 고양이 찾기	quest_003	101	110001
