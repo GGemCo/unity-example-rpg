@@ -1,3 +1,7 @@
+# GGemCo 2D Core 패키지
+- Unity Package 방식으로 버전 2를 만들었습니다.
+- 바로가기: https://github.com/GGemCo/unity-package-2d-core
+
 # Unity SDK RPG
 유니티에서 2D RPG 게임을 만들기 예제 입니다.
 
@@ -29,7 +33,7 @@
 
 ## 관련 링크
 - 설명 동영상 : https://www.youtube.com/@ggemco
-- 설명 문서 : https://sturdy-coat-0d2.notion.site/2D-RPG-Unity-2D-RPG-Tutorial-1ccbf593397e802ba3edcda8b2e3a8c3?pvs=4
+- 설명 문서 : https://ggemco.notion.site/2D-RPG-Unity-2D-RPG-Tutorial-1ccbf593397e802ba3edcda8b2e3a8c3?pvs=4
 
 ## 예제 프로젝트 설정 방법
 
